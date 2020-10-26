@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/alexandr90h/goit-js-hw-11-promisification#readme",
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "gh-pages": "^3.1.0",
     "sass": "^1.27.0"
   }
